@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/tindev.png" width="250px" />
+    <img alt="DevRadar" title="#tindev" src=".github/tindev.png" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -20,7 +20,7 @@
 </p>
 <br>
 <p align="center">
-  <img alt="Frontend" src=".github/tindev-screens.jpeg" width="100%">
+  <img alt="Frontend" src=".github/tindev-screens.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -50,6 +50,5 @@ The Tindev is an application that uses the user's github as a form of login and 
 
 ## 📝 Licença
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
+This project is under the MIT license. See the [LICENSE](LICENSE) for more details.
 
----
