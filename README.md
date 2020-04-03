@@ -1,54 +1,61 @@
-
 <h1 align="center">
-    <img alt="DevRadar" title="#tindev" src=".github/tindev.png" width="250px" />
+    <img alt="Tindev" src=".github/logo.png" />
 </h1>
 
 <h4 align="center">
-  🚀 Week OmniStack 8.0 by RocketSeat
+  🚀 Semana OmniStack 8.0 by RocketSeat
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/guuhx97/tindev">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
-
 <p align="center">
-  <a href="#rocket-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
-</p>
-<br>
-<p align="center">
-  <img alt="Frontend" src=".github/tindev-screens.png" width="100%">
+  <img alt="Tindev" src=".github/tindev-screens.png" width="100%">
 </p>
 
-## 🚀 Technologies
+## 👨🏼‍💻 Projeto
 
-For the development of the project, the following techniques were used:
+Tindev é um aplicativo que é acrônimo do Tinder, só que ao invés de buscar relacionamentos amorosos, o Tindev, busca realizar o `match` entre desenvolvedores que gostem das mesmas tecnologias ou até mesmo que utilizam a mesma stack para o desenvolvimento. Para fazer login na aplicação basta informar um usuário do github. Foi desenvolvida durante a <b>Semana Omnistack 8.0</b>.
 
+## 🔨 Tecnologias
+
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
-- [Mongo](https://www.mongodb.com/)
+- [MongoDB](https://www.mongodb.com/)
 
-## 💻 Project
+## 🔄 Executar
+ - Fazer clone do repositório.
 
-The Tindev is an application that uses the user's github as a form of login and serves as a developer search engine, where developers when connecting to the application are available for other users to match or not. It was developed during the omnistack 8.0 week, offered by Rocketseat.
+### 🔧 Back-end
+ - Entrar na pasta `backend`;
+ - Executar `yarn install` para instalar dependências do projeto;
+ - Executar `yarn dev` para que o projeto seja executado;
 
-## 🤔 Getting Started
+### 💻 Front-end
+ - Entrar na pasta `frontend`;
+ - Executar `yarn install` para instalar dependências do projeto;
+ - Executar `yarn start` para que o projeto seja executado;
 
-- Clone this repository
-- Change the database address (mongodb) on the application's backend in the `server.js` file;
-- Change the IP address of the API on the application's mobile in the `/src/services/api.js` file.
-- Install the project facilities with `yarn install`
-- Run the application backend with the command `yarn dev`
-- Run the application frontend with the command `yarn start`
-- Run the mobile application with the command `yarn start`
+### 📱 Mobile
+- Entrar na pasta `mobile`;
+ - Executar `yarn install` para instalar dependências do projeto;
+ - Executar `yarn start` para que o projeto seja executado;
 
+## ♻️ Como contribuir
+- Faça um fork desse repositório;
+- Crie uma branch com a sua feature: `git checkout -b minha-feature`
+- Commit suas mudanças: `git commit -m ':emoji: feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
 
 ## 📝 Licença
+Este projeto está sobre a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-This project is under the MIT license. See the [LICENSE](LICENSE) for more details.
+---
 
+<h4 align="center">
+  Feito com ❤️ by Gustavo Souza
+</h4>
